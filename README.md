@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Tailwind CSS related to responsive design.  The bug arises when applying multiple responsive modifiers to a single element, resulting in unexpected styling behavior. The solution involves careful ordering and combination of classes to ensure the expected behavior.
